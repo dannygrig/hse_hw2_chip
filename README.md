@@ -38,6 +38,8 @@
 #### Образец ENCFF983KWQ 
  https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_1.pdf
  https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_2.pdf
+#### Диаграммы Венна демонстрируют нам разные значения в пересечении внутри одного образца - это может быть связано с действием программы
+#### Для построения пересечений здесь важен порядок
 ### Бонусная часть 
 #### Полученный график для bam - файла ENCFF441TOI 
  ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/result.png)
