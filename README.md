@@ -8,6 +8,7 @@
 
 ### Анализ результатов FastQC
 #### Как можно заметить из выдачи - образец ENCFF983KWQ хорошего качества
+ |  |  |
  | ------------- | ------------- |
  | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc.png) | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc_2.png) |
 #### У образца ENCFF834DXB есть значимые проблемы с качеством некоторых чтений
