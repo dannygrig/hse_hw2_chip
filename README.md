@@ -42,5 +42,7 @@
 #### Диаграммы Венна демонстрируют нам разные значения в пересечении внутри одного образца - это может быть связано с действием программы
 #### Для построения пересечений здесь важен порядок
 ### Бонусная часть 
-#### Полученный график для bam - файла ENCFF441TOI 
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/result.png)
+#### Полученный график для bam - файла ENCFF441TOI и ENCFF040TSP
+ | ENCFF441TOI | ENCFF040TSP |
+ | ------------- | ------------- |
+ | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/result.png) | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/result_2.png) |
