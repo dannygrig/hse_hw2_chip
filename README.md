@@ -7,9 +7,9 @@
 #### [Ссылка](https://colab.research.google.com/drive/1UaofFq8Pje0yJ6u8wfi4Prd-XjX29t2j?usp=sharing) на бонусное задание в колабе
 
 ### Анализ результатов FastQC
-### Как можно заметить из выдачи - образец ENCFF983KWQ хорошего качества
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc.png)
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc_2.png)
+#### Как можно заметить из выдачи - образец ENCFF983KWQ хорошего качества
+ | ------------- | ------------- |
+ | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc.png) | ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc_2.png) |
 #### У образца ENCFF834DXB есть значимые проблемы с качеством некоторых чтений
  ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc.png)
  ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc_2.png)
@@ -20,6 +20,8 @@
 #### С помощью trimmomatic чтения были подрезаны, однако, качество улучшилось далеко не так заметно (подробнее в files - результаты FastQC для подрезанных образцов)
 
 ### Таблица со статистикой по образцам
+#### Для выравнивания была выбрана 21-ая хромосома
+#### Процент выравнивания очень мал, поскольку мы выбрали лишь одну хромосому, причем не самую большую.
 | Fastq файл | Общее кол-во ридов | Риды уникальные | Риды неуникальные | Риды не выравнились |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ENCFF834DXB | 17283292 | 417150 (2.41%) | 1473006 (8.52%) | 15393136 (89.06%) |
