@@ -28,11 +28,11 @@
 
 ### Диаграммы Венна
 #### Образец ENCFF834DXB
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_dxb_1.pdf)
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_dxb_2.pdf)
+ [embed](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_dxb_1.pdf)[/embed]
+ [embed](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_dxb_2.pdf)[/embed]
 #### Образец ENCFF983KWQ 
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_1.pdf)
- ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_2.pdf)
+ [embed](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_1.pdf)[/embed]
+ [embed](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/Intervene_venn_kwq_2.pdf)[/embed]
 ### Бонусная часть 
 #### Полученный график для bam - файла ENCFF441TOI 
  ![](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/result.png)
