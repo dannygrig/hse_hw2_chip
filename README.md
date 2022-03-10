@@ -5,7 +5,8 @@
 #### Графики и результаты выдачи FastQC в папке files
 #### [Ссылка](https://colab.research.google.com/drive/10yiTXD_kCj7P0BEzCJt2P9eQIPPrtyLX?usp=sharing) на колаб с основной частью
 #### [Ссылка](https://colab.research.google.com/drive/1UaofFq8Pje0yJ6u8wfi4Prd-XjX29t2j?usp=sharing) на бонусное задание в колабе
-
+### Клеточная линия - HUES64	
+### Гистоновая Метка - H3K27me3
 ### Анализ результатов FastQC
 #### Как можно заметить из выдачи - образец ENCFF983KWQ хорошего качества
  |  |  |
