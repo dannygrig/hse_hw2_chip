@@ -8,16 +8,16 @@
 
 ### Анализ результатов FastQC
 #### Как можно заметить из выдачи - образец ENCFF983KWQ хорошего качества
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc.png)
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc_2.png)
-#### У образца ENCFF834DXB есть значимые проблемы с качеством некоторых чтений
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc.png)
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc_2.png)
-#### У контроля ENCFF902MPL тоже есть небольшие проблемы с качеством некоторых последовательностей
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF902MPL_fastqc.png)
-[](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF902MPL_fastqc_2.png)
-#### Было принято решение подрезать чтения у ENCFF834DXB и у контроля (код в Colab'е)
-#### С помощью trimmomatic чтения были подрезаны, однако, качество улучшилось далеко не так заметно (подробнее в files - результаты FastQC для подрезанных образцов)
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc.png)
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF983KWQ_fastqc_2.png)
+##### У образца ENCFF834DXB есть значимые проблемы с качеством некоторых чтений
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc.png)
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF834DXB_fastqc_2.png)
+##### У контроля ENCFF902MPL тоже есть небольшие проблемы с качеством некоторых последовательностей
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF902MPL_fastqc.png)
+ [](https://github.com/dannygrig/hse_hw2_chip/blob/main/files/FF902MPL_fastqc_2.png)
+##### Было принято решение подрезать чтения у ENCFF834DXB и у контроля (код в Colab'е)
+##### С помощью trimmomatic чтения были подрезаны, однако, качество улучшилось далеко не так заметно (подробнее в files - результаты FastQC для подрезанных образцов)
 
 
 | Fastq файл | Общее кол-во ридов | Риды уникальные | Риды неуникальные | Риды не выравнились |
